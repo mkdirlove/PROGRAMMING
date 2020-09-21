@@ -2,4 +2,4 @@
 
 Answer for C++ word problems.
 
-![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/ANSWERS-C-/blob/master/preview.png)
+![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/PROGRAMMING/blob/master/preview.png)
